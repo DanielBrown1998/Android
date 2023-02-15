@@ -89,7 +89,7 @@ main {
     background-color: white;
     margin: auto;
     margin-bottom: 30px;
-    padding: 50px;
+    padding: 5%;
     min-width: 280px; /*para dispositivos mais antigos*/
     max-width: 800px;
     border-radius: 10px;
@@ -152,7 +152,9 @@ main img.smal {
 main iframe {
     display: block;
     margin: auto;
-    max-width: 70%;
+
+    max-width: 100%;
+    max-height: 100%;
     border-radius: 10px;
 }
 
