@@ -1,6 +1,8 @@
 # Android
 
 <h3>Exemplo de Site Informativo</h3>
-<a href="https://danielbrown1998.github.io/Android/android.html">Página</a>
 <br>
-<a href="https://danielbrown1998.github.io/Android/" target="_blanck">Arquivos da página</a>
+<h5>Minha página</h5>
+<ul>
+<li type="circle"><p><a href="https://danielbrown1998.github.io/Android/android.html">Página</a></p>
+</ul>
